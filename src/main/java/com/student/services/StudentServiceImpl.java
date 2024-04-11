@@ -1,4 +1,4 @@
-package com.karthicvel.student.services;
+package com.student.services;
 
 public class StudentServiceImpl {
 

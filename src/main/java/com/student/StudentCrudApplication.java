@@ -1,4 +1,4 @@
-package com.karthicvel.student;
+package com.student;
 
 
 

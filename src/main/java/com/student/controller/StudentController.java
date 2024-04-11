@@ -1,4 +1,4 @@
-package com.karthicvel.student.controller;
+package com.student.controller;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -9,8 +9,10 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.karthicvel.student.model.StudentModel;
-import com.karthicvel.student.repos.StudentRepository;
+import com.student.model.StudentModel;
+import com.student.repos.StudentRepository;
+
+
 
 @RestController
 @RequestMapping("/student")

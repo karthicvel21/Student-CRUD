@@ -1,4 +1,4 @@
-package com.karthicvel.student.model;
+package com.student.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
