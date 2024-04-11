@@ -1,0 +1,5 @@
+package com.karthicvel.student.dal.controller;
+
+public class StudentRESTController {
+
+}
